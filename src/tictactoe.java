@@ -130,7 +130,7 @@ public class tictactoe {
         else {
             System.out.println(
                     "Congratulations! " + winner
-                            + "'s have won! Thanks for playing.");
+                            + "'s have won! Thanks for playing and good luck.");
         }
         in.close();
 
